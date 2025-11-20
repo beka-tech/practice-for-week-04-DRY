@@ -1,5 +1,5 @@
 function multiplyBiggerNumByTwo(num1, num2) {
-  return num1 > num2 ? num1 : num2;
+  return num1 > num2 ? num1 / 2 : num2 / 2;
 }
 
 function divideBiggerNumByThree(num1, num2) {
